@@ -1,2 +1,2 @@
-# lac
+# LAC
 Lossless Audio Converter
